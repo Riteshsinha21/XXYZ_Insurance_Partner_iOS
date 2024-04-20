@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.2.2)
+  - IQKeyboardManagerSwift (6.5.16)
+  - MotionToastView (0.1.10)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - SideMenu (5.0.3)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2.1)
+  - IQKeyboardManagerSwift
+  - MotionToastView
+  - SDWebImage
+  - SideMenu (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MotionToastView
+    - SDWebImage
+    - SideMenu
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 787ca87ba403c2506f5a29c496c51ff00eb94c3e
+
+COCOAPODS: 1.12.1
